@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      database: testdb
+      database: CursoReactivoTallerFinal
       uri: mongodb://localhost:27017
